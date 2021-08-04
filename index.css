@@ -1,0 +1,120 @@
+.div1{
+  display: none;
+}
+.col1 {
+  background-color: #000000;
+  color: #F4F6FF;
+  padding: 15px 15px 15px 15px;
+}
+.colh1{
+  font-family: serif;
+  padding-right: 30px;
+}
+.col1h {
+  font-size: 15px;
+  color:  #067302;
+  padding-top: 5px;
+}
+.col2 {
+  background-color: #067302;
+  color: #F4F6FF;
+
+}
+.one {
+  background-color: #000000;
+  margin-top: 125px;
+  margin-left: 20px;
+  padding-left:10px;
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.arrow{
+  padding-left: 800px;
+  font-size: 30px;
+}
+.two{
+  padding-left: 20px;
+}
+.two1-1{
+  background: #000000;
+  padding-bottom: 2px;
+}
+.two1-2{
+  background: #F4F6FF;
+  color: #000000;
+  font-size: 25px;
+  padding-left:10px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  font-family: serif;
+  font-weight: bold;
+}
+.two2-1h{
+  color:#000000;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 6px;
+}
+.two1-1h{
+  font-size: 15px;
+  padding-top: 6px;
+  padding-left: 2px;
+}
+.two2-2h{
+  font-size: 20px;
+}
+.three {
+  padding-left: 20px;
+}
+.three1{
+  padding-top: 45px;
+}
+.three1h{
+  color: #000000;
+}
+
+.three2 {
+  padding-top: 40px;
+}
+.three2h {
+  font-size: 15px;
+  padding-left: 25px;
+  padding-top: 6px;
+ padding-bottom: 6px;
+}
+.three2-1{
+  background: #F4F6FF;
+  color: #000000;
+  font-size: 10px;
+    margin-left: 354px;
+}
+.three2-2{
+  font-size: 45px;
+  background:#000000;
+  font-family:serif;
+  margin-right: 100px;
+
+}
+.three2-2p{
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+}
+.para:hover{
+  background-color:#067302;
+  width: 100%;
+}
+.hr{
+  border-top: 1px dotted white;
+}
+.icon {
+   width: 20px;
+   height: 20px;
+   margin-left: 15px;
+   color: #000000;
+}
+.checkicon{
+  color: #000000;
+  font-size: 20px;
+}
